@@ -3,7 +3,7 @@
 - Nama: Theofani Natanya Anari Hutabarat
 - NPM: 4525210074
 - Mata Kuliah: Praktikum Desain Web - A
-- Materi: Pertemuan 06
+- Materi: Pertemuan 07
 - Dosen: Ari Wibowo, S.Kom., M.Kom., C. Pro.
 
 # DESKRIPSI PROYEK
